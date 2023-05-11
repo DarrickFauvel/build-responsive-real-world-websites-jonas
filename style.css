@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 1.3rem;
+}
+
+h1 + p {
+  font-size: 0.9rem;
+}
+
+ul {
+  line-height: 2.5;
+}
